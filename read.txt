@@ -1,0 +1,8 @@
+try to create this website layout 
+
+
+concepts: use flex or  grid box
+
+try to find these icons in internet and implement that
+
+try to make it responsive
